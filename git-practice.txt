@@ -1,0 +1,84 @@
+ 1  nano hello.txt
+    2  nano hello.txt
+    3  nano hello.txt
+    4  abc/testing
+    5  mkdir testing
+    6  cd testing
+    7  nano yes.txt
+    8  nano yes.txt
+    9  cat yes.txt
+   10  .bash_profile
+   11  nano
+   12  nano .bash_profile
+   13  source .bash_profile
+   14  nano .bash_profile
+   15  source hello.txt
+   16  ls
+   17  source yes.txt
+   18  pwd
+   19  nano .bash_profile
+   20  source .bash_profile
+   21  md
+   22  mkdir
+   23  pd
+   24  ls
+   25  list
+   26  history
+   27  source .bash_profile
+   28  nano .bash_profile
+   29  ht
+   30  source .bash_profile
+   31  ht
+   32  nano .bash_profile
+   33  ht
+   34  source .bash_profile
+   35  ht
+   36  nano .bash_profile
+   37  source .bash_profile
+   38  ls
+   39  ll
+   40  pwd
+   41  pd
+   42  ls alt
+   43  ls -alt
+   44  showdir
+   45  dir
+   46  nano .bash_profile
+   47  source .bash_profile
+   48  ls
+   49  nano .bash_profile
+   50  source .bash_profile
+   51  nano .bash_profile
+   52  source .bash_profile
+   53  nano .bash_profile
+   54  source .bash_profile
+   55  nano .bash_profile
+   56  env
+   57  env grep
+   58  env ~grep
+   59  env `grep
+j
+d;
+env
+ls
+;
+`
+   60  env | grep
+   61  env | grep PATH
+   62  env | grep PASS
+   63  ist
+   64  hist
+   65  hst
+   66  history
+
+bash profile:
+
+echo "Hello this is a test"
+
+alias pd="pwd"
+alias ht="history"
+alias ll="ls"
+
+export USER="new"
+export PS1=">> "
+
